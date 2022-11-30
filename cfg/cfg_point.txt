@@ -1,0 +1,4 @@
+mean (r g b) of point
+201 184 120
+std (r g b) of point)
+9 12 31

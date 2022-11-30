@@ -1,0 +1,4 @@
+mean (r g b) of background
+220 220 220
+std (r g b) of background)
+0 0 0

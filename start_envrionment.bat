@@ -1,0 +1,1 @@
+%windir%\System32\cmd.exe "/K" D:\programs\anaconda\Scripts\activate.bat D:\programs\anaconda

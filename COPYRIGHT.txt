@@ -1,0 +1,30 @@
+Showblue - Detection of SAbeta-gal+ cells on muscle cryosections in vivo.
+Copyright © 2014-2022 Institut Pasteur (Paris) and CNRS.
+------------------------------------------------------------------
+
+Citation: 
+Quantitative evaluation of paracrine senescence’s impact on cellular reprogramming. Jeremy Chantrel, Cheng Chen, Jun Zhang, and Han Li. doi:XXX
+http://www.XXX
+
+------------------------------------------------------------------
+
+The code includes contributions and input from: 
+
+   Jun Zhang          Télécom Paris, 19 place marguerite Perey, 91120 Palaiseau, France.                          
+
+-----------------------------------------------------------------
+The source code of Showblue is distributed
+under the terms of the GNU GeneralPublic License v3.
+See the file COPYING for details.
+
+These programs are free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation version 3 of the License.
+
+These programs are distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+A copy of the GNU General Public License is in the file COPYING.  You
+may also obtain a copy from <http://www.gnu.org/licenses/>.

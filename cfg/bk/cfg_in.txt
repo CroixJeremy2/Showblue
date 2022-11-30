@@ -1,0 +1,4 @@
+mean (r g b) of inside
+166 166 148
+std (r g b) of inside)
+15 17 43

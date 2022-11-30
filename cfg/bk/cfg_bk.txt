@@ -1,0 +1,4 @@
+mean (r g b) of background
+178 180 182
+std (r g b) of background)
+10 11 14
